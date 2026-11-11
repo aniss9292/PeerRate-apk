@@ -3,9 +3,9 @@
 <!-- RELEASE:START -->
 ## Latest release
 
-**Version:** `2.0.12` (build 74) · 2026-11-10
+**Version:** `2.0.13` (build 75) · 2026-11-11
 
-[⬇️ Download the APK](https://github.com/aniss9292/PeerRate-apk/releases/download/v2.0.12-build74/PeerRate-v2.0.12-release.apk) · [All releases](https://github.com/aniss9292/PeerRate-apk/releases)
+[⬇️ Download the APK](https://github.com/aniss9292/PeerRate-apk/releases/download/v2.0.13-build75/PeerRate-v2.0.13-release.apk) · [All releases](https://github.com/aniss9292/PeerRate-apk/releases)
 
 _This block is updated automatically by the release workflow._
 <!-- RELEASE:END -->
